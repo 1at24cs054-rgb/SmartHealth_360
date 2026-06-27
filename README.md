@@ -69,8 +69,4 @@
 
 ---
 
-
-
----
-
 > **Note**: This platform is an AI-powered simulation. Always consult with a certified medical professional for real-world medical decisions.
