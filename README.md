@@ -69,9 +69,7 @@
 
 ---
 
-## 👤 Author
-**Dhanush**  
-*Lead Developer & AI Architect*
+
 
 ---
 
